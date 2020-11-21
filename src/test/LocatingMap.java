@@ -6,6 +6,7 @@ public class LocatingMap {
 
 
         System.out.println("Hello Amirjon from line 7");
+        System.out.println("Chanfes to commit");
     }
 
 }
